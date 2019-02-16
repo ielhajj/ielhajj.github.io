@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Research Overview</title>
+</head>
+<body>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-101534848-1");
+    pageTracker._trackPageview();
+} catch(err) {}</script>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">About</div>
+<div class="menu-item"><a href="home.html">Home</a></div>
+<div class="menu-item"><a href="biography.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="research.html" class="current">Overview</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="teaching-current.html">Current</a></div>
+<div class="menu-item"><a href="teaching-past.html">Past</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research Overview</h1>
+</div>
+<p>Izzat's research interests are in programming systems (languages, compilers, and runtimes) for emerging processor and memory technologies.
+His work is divided into the following main thrusts:</p>
+<dl>
+<dt><b>Thrust #1: Programming Systems for GPUs</b></dt>
+<dd><p>
+The emergence of GPUs as general purpose accelerators has provided opportunities for massive performance gains and energy savings, but comes at the cost of increased programming difficulty.
+This thrust aims at making GPU programming easier while still achieving good performance.
+Projects Izzat has worked on in this thrust include:
+MxPA, a compiler from OpenCL to multi-core CPUs that allows programmers to write a single version of their code for both CPUs and GPUs (<a href="publications/paper/paper-mxpa-cgo15.pdf">CGO&rsquo;15</a>),
+Tangram, a compiler that composes simple codelets to synthesize kernels for different processors and processor generations in accordance with their architectural hierarchy (<a href="publications/paper/paper-tangram-micro16.pdf">MICRO&rsquo;16a</a>),
+KLAP, a compiler that amortizes the launch overhead caused by the use of dynamic parallelism by aggregating child grids of the same parent grid (<a href="publications/paper/paper-klap-micro16.pdf">MICRO&rsquo;16b</a>),
+and Chai, is a taxonomy and benchmark suite for collaborative execution in heterogeneous CPU-GPU (<a href="publications/paper/paper-chai-ispass17.pdf">ISPASS&rsquo;17</a>) and CPU-FPGA (<a href="publications/paper/paper-chai-icpe19.pdf">ICPE&rsquo;19</a>) systems with unified memory.</p></dd>
+</dl>
+<dl>
+<dt><b>Thrust #2: Programming Systems for Resistive Memories</b></dt>
+<dd><p>
+Emerging resistive memory devices are a promising technology for building large byte-addressable persistent memories as well as building neuromorphic in-memory accelerators that use resistive memory crossbars for compute.
+This thrust aims at providing programming support for taking advantage of these technologies.
+Projects Izzat has worked on in this thrust include:
+SpaceJMP, an operating system technique with compiler support for using multiple virtual address spaces per process to manage large memories and persistent pointer-based data structures (<a href="publications/paper/paper-spacejmp-asplos16.pdf">ASPLOS&rsquo;16</a>),
+SAVI Objects, a set of compiler transformations that enable sharing of polymorphic persistent objects containing virtual table pointers (<a href="publications/paper/paper-savi-objects-oopsla17.pdf">OOPSLA&rsquo;17</a>),
+and PUMA, programmable accelerator for machine learning inference based on resistive memory crossbars and a compiler for compiling high-level code for this accelerator (<a href="publications/paper/paper-puma-asplos19.pdf">ASPLOS&rsquo;19</a>).</p></dd>
+</dl>
+<dl>
+<dt><b>Thrust #3: Application Engagement</b></dt>
+<dd><p>
+Application engagement is critical for programming systems research to ensure that systems are not developed in vacuum, but with awareness of the challenges that end users face.
+Some of the projects Izzat has worked on in this thrust include:
+Tiger, a framework for DNA sequence assembly that parallelizes an inherently sequential algorithm using an iterative approach (<a href="publications/paper/paper-tiger-bio12.pdf">BMC Bioinformatics&rsquo;12</a>)
+and a solver for nonlinear tomographic image reconstruction that captures multiple scattering effects using multilevel fast multipole methods (<a href="publications/paper/paper-mlfmm-ipdps18.pdf">IPDPS&rsquo;18</a>).</p></dd>
+</dl>
+</td>
+</tr>
+</table>
+</body>
+</html>

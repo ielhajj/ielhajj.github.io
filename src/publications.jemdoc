@@ -1,0 +1,160 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+# jemdoc: analytics{UA-101534848-1}
+= Publications
+
+== Papers
+
+: {*PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference*}
+A. Ankit, **I. El Hajj**, S. Chalamalasetti, G. Ndu, M. Foltin, R. S. Williams, P. Faraboschi, W.-M. Hwu, J. P. Strachan, K. Roy, D. Milojicic\n
+/ASPLOS'19/ ***(acceptance rate: 74/350 = 21.1%)***\n
+[publications/paper/paper-puma-asplos19.pdf \[paper\]] [publications/bib/bib-puma-asplos19.bib \[bibtex\]]
+
+: {*Analysis and Modeling of Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures*}
+S. Huang, L.-W. Chang, **I. El Hajj**, S. Garcia de Gonzalo, J. Gómez-Luna, S. Chalamalasetti, M. El-Hadedy, D. Milojicic, O. Mutlu, D. Chen, W.-M. Hwu\n
+/ICPE'19/\n
+[publications/paper/paper-chai-icpe19.pdf \[paper\]] [publications/bib/bib-chai-icpe19.bib \[bibtex\]]
+
+: {*A Fast and Massively-Parallel Inverse Solver for Multiple-Scattering Tomographic Image Reconstruction*}
+M. Hidayetoğlu, C. Pearson, **I. El Hajj**, L. Gürel, W.-C. Chew, W.-M. Hwu\n
+/IPDPS'18/ ***(1st round acceptance rate: 38/461 = 8.2%)***\n
+*Best poster runner up*\n
+[publications/paper/paper-mlfmm-ipdps18.pdf \[paper\]] [publications/poster/poster-mlfmm-ipdps18.pdf \[poster\]] [publications/bib/bib-mlfmm-ipdps18.bib \[bibtex\]]
+
+: {*SAVI Objects: Sharing and Virtuality Incorporated*}
+**I. El Hajj**, T. Jablin, D. Milojicic, W.-M. Hwu\n
+/OOPSLA'17/ ***(acceptance rate: 66/223 = 29.6%)***\n
+[publications/paper/paper-savi-objects-oopsla17.pdf \[paper\]] [publications/slides/slides-savi-objects-oopsla17.pptx \[slides\]] [publications/bib/bib-savi-objects-oopsla17.bib \[bibtex\]]
+
+: {*Chai: Collaborative Heterogeneous Applications for Integrated-architectures*}
+J. Gómez-Luna, **I. El Hajj**, L.-W. Chang, V. Garcia-Flores, S. Garcia de Gonzalo, T. Jablin, A. J. Peña, W.-M. Hwu\n
+/ISPASS'17/ ***(acceptance rate: 24/81 = 29.6%)***\n
+[publications/paper/paper-chai-ispass17.pdf \[paper\]] [publications/slides/slides-chai-ispass17.pptx \[slides\]] [publications/bib/bib-chai-ispass17.bib \[bibtex\]] [https://chai-benchmarks.github.io \[website\]] [https://github.com/chai-benchmarks/chai \[code\]]
+
+: {*KLAP: Kernel Launch Aggregation and Promotion for Optimizing Dynamic Parallelism*}
+**I. El Hajj**, J. Gómez-Luna, C. Li, L.-W. Chang, D. Milojicic, W.-M. Hwu\n
+/MICRO'16/ ***(acceptance rate: 61/283 = 21.6%)***\n
+[publications/paper/paper-klap-micro16.pdf \[paper\]] [publications/slides/slides-klap-micro16.pptx \[slides\]] [publications/poster/poster-klap-micro16.pdf \[poster\]] [publications/bib/bib-klap-micro16.bib \[bibtex\]] [https://github.com/illinois-impact/klap \[code\]]
+
+: {*Efficient Kernel Synthesis for Performance Portable Programming*}
+L.-W. Chang, **I. El Hajj**, C. Rodrigues, J. Gómez-Luna, W.-M. Hwu\n
+/MICRO'16/ ***(acceptance rate: 61/283 = 21.6%)***\n
+[publications/paper/paper-tangram-micro16.pdf \[paper\]] [publications/slides/slides-tangram-micro16.pdf \[slides\]] [publications/poster/poster-tangram-micro16.pdf \[poster\]] [publications/bib/bib-tangram-micro16.bib \[bibtex\]]
+
+: {*SpaceJMP: Programming with Multiple Virtual Address Spaces*}
+**I. El Hajj**\*, A. Merritt\*, G. Zellweger\*, D. Milojicic, R. Achermann, P. Faraboschi, W.-M. Hwu, T. Roscoe, K. Schwan \*co-primary authors\n
+/ASPLOS'16/ ***(acceptance rate: 53/232 = 22.8%)***\n
+*HiPEAC Paper Award*\n
+[publications/paper/paper-spacejmp-asplos16.pdf \[paper\]] [publications/slides/slides-spacejmp-asplos16.pptx \[slides\]] [publications/poster/poster-spacejmp-asplos16.pdf \[poster\]] [publications/bib/bib-spacejmp-asplos16.bib \[bibtex\]]
+
+: {*Locality-Centric Thread Scheduling for Bulk-synchronous Programming Models on CPU Architectures*}
+H.-S. Kim, **I. El Hajj**, J. A. Stratton, S. S. Lumetta, W.-M. Hwu\n
+/CGO'15/ ***(acceptance rate: 24/88 = 27.3%)***\n
+*Best paper runner up*\n
+[publications/paper/paper-mxpa-cgo15.pdf \[paper\]] [publications/slides/slides-mxpa-cgo15.pptx \[slides\]] [publications/bib/bib-mxpa-cgo15.bib \[bibtex\]]
+
+: {*TIGER: Tiled Iterative Genome Assembler*}
+X.-L. Wu, Y. Heo, **I. El Hajj**, W.-M. Hwu, D. Chen, J. Ma\n
+/BMC Bioinformatics'12/\n
+[publications/paper/paper-tiger-bio12.pdf \[paper\]] [publications/bib/bib-tiger-bio12.bib \[bibtex\]]
+
+== Short Papers and Posters
+
+: {*Hardware-Software Co-Design for an Analog-Digital Accelerator for Machine Learning*}
+J. Ambrosi, A. Ankit, R. Antunes, S. Chalamalasetti, S. Chatterjee, **I. El Hajj**, G. Fachini, P. Faraboschi, M. Foltin, S. Huang, W.-M. Hwu, G. Knuppe, S. Lakshminarasimha, D. Milojicic, M. Parthasarathy, F. Ribeiro, L. Rosa, K. Roy, P. Silveira, J. P. Strachan\n
+/ICRC'18/\n
+[publications/bib/bib-dpe-icrc18.bib \[bibtex\]]
+
+:{*Scaling Analysis of a Hierarchical Parallelization of Large Inverse Multiple-Scattering Solutions*}
+M. Hidayetoğlu, C. Pearson, **I. El Hajj**, W. C. Chew, L. Gürel, W.-M. Hwu\n
+/SC'17/\n
+[publications/paper/paper-mlfmm-sc17.pdf \[short paper\]] [publications/poster/poster-mlfmm-sc17.pdf \[poster\]] [publications/bib/bib-mlfmm-sc17.bib \[bibtex\]]
+
+: {*Collaborative Computing for Heterogeneous Integrated Systems*}
+L.-W. Chang, J. Gómez-Luna, **I. El Hajj**, S. Huang, D. Chen, W.-M. Hwu\n
+/ICPE'17/\n
+[publications/paper/paper-collaborative-icpe17.pdf \[short paper\]] [publications/slides/slides-collaborative-icpe17.pptx \[slides\]] [publications/bib/bib-collaborative-icpe17.bib \[bibtex\]]
+
+: {*A Programming System for Future Proofing Performance Critical Libraries*}
+L.-W. Chang, **I. El Hajj**, H.-S. Kim, J. Gómez-Luna, A. Dakkak, W.-M. Hwu\n
+/PPoPP'16/\n
+[publications/paper/paper-tangram-ppopp16.pdf \[short paper\]] [publications/poster/poster-tangram-ppopp16.pdf \[poster\]] [publications/bib/bib-tangram-ppopp16.bib \[bibtex\]]
+
+== Invited Papers
+
+: {*Rebooting the Data Access Hierarchy of Computing Systems*}
+W.-M. Hwu, **I. El Hajj**, S. Garcia de Gonzalo, C. Pearson, N. S. Kim, D. Chen, J. Xiong, Z. Sura\n
+/ICRC'17/\n
+[publications/paper/paper-erudite-icrc17.pdf \[paper\]] [publications/bib/bib-erudite-icrc17.bib \[bibtex\]]
+
+: {*Generalize or Die: Operating Systems Support for Memristor-based Accelerators*}
+P. Bruel, S. Chalamalasetti, **I. El Hajj**, A. Goldman, C. Graves, W.-M. Hwu, P. Laplante, D. Milojicic, G. Ndu, J. P. Strachan\n
+/ICRC'17/\n
+[publications/paper/paper-dpe-icrc17.pdf \[paper\]] [publications/bib/bib-dpe-icrc17.bib \[bibtex\]]
+
+: {*Transitioning HPC Software to Exascale Heterogeneous Computing*}
+W.-M. Hwu, L.-W. Chang, H.-S. Kim, A. Dakkak, **I. El Hajj**\n
+/CEM'15/\n
+[publications/paper/paper-exascale-cem15.pdf \[short paper\]] [publications/bib/bib-exascale-cem15.bib \[bibtex\]]
+
+== Patents
+
+: {*Architecture Support for Multiple Virtual Address Spaces per Process*}
+**I. El Hajj**, A. Merritt, G. Zellweger, D. Milojicic, P. Faraboschi\n
+/In submission./
+
+: {*Client-Server Programming with Address Spaces*}
+**I. El Hajj**, A. Merritt, G. Zellweger, D. Milojicic\n
+/PCT\/US2016\/021446, filed Sep. 3, 2016./\n
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017155523 \[application\]]
+
+: {*Multiple Persistent Virtual Address Spaces (MPVAS)*}
+**I. El Hajj**, A. Merritt, G. Zellweger, D. Milojicic\n
+/PCT\/US2016\/015661, filed Jan. 29, 2016./\n
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017131747 \[application\]]
+
+: {*Versioning using multiple virtual address spaces per process*}
+**I. El Hajj**, A. Merritt, G. Zellweger, D. Milojicic\n
+/PCT\/US2016\/015814, filed Jan. 29, 2016./\n
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017131779 \[application\]]
+
+: {*Hardware support for tracking writes to memory objects with sub-page granularity*}
+**I. El Hajj**, A. Merritt, G. Zellweger, D. Milojicic\n
+/PCT\/US2016\/015815, filed Jan. 29, 2016./\n
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017131780 \[application\]]
+
+: {*Use of memory write logging for fast versioning of in-memory objects*}
+**I. El Hajj**, A. Merritt, G. Zellweger, D. Milojicic, R. Achermann\n
+/PCT\/US2016\/015839, filed Jan. 29, 2016./\n
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017131789 \[application\]]
+
+: {*Supporting and managing multiple virtual address spaces per process*}
+**I. El Hajj**, A. Merritt, G. Zellweger, D. Milojicic\n
+/PCT\/US2015\/049726, filed Sept. 11, 2015./\n
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017044124 \[application\]]
+
+== Book Chapters
+
+: {*Parallel Patterns: Graph Search*}
+J. Gómez-Luna, **I. El Hajj**, D. Kirk, W.-M. Hwu\n
+/Programming Massively Parallel Processors: A Hands-on Approach/\n
+D. Kirk, W.-M. Hwu. Morgan Kaufmann, 2017. Ch. 12, pp. 257-274.
+
+: {*CUDA Dynamic Parallelism*}
+J. Gómez-Luna, **I. El Hajj**, D. Kirk, W.-M. Hwu\n
+/Programming Massively Parallel Processors: A Hands-on Approach/\n
+D. Kirk, W.-M. Hwu. Morgan Kaufmann, 2017. Ch. 13, pp. 275-304.
+
+== Dissertations and Reports
+
+: {*Techniques for Optimizing Dynamic Parallelism on Graphics Processing Units*}
+**I. El Hajj**\n
+/Ph.D. Dissertation, Dec '18/
+
+: {*Dynamic Loop Vectorization for Executing OpenCL Kernels on CPUs*}
+**I. El Hajj**\n
+/M.S. Thesis, May '14/
+
+: {*Multi-tier Dynamic Vectorization for Translating GPU Optimizations into CPU Performance*}
+H.-S. Kim, **I. El Hajj**, J. A. Stratton, W.-M. Hwu\n
+/Technical Report, UIUC, Feb '14/
+

@@ -1,6 +1,6 @@
 
 default:
-	./jemdoc.py -o ../ home.jemdoc
+	./jemdoc.py -o ../ index.jemdoc
 	./jemdoc.py -o ../ biography.jemdoc
 	./jemdoc.py -o ../ research.jemdoc
 	./jemdoc.py -o ../ publications.jemdoc

@@ -7,12 +7,12 @@
 : {*PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference*}
 A. Ankit, **I. El Hajj**, S. Chalamalasetti, G. Ndu, M. Foltin, R. S. Williams, P. Faraboschi, W.-M. Hwu, J. P. Strachan, K. Roy, D. Milojicic\n
 /ASPLOS'19/ ***(acceptance rate: 74/350 = 21.1%)***\n
-[publications/paper/paper-puma-asplos19.pdf \[paper\]] [publications/bib/bib-puma-asplos19.bib \[bibtex\]]
+[publications/paper/paper-puma-asplos19.pdf \[paper\]] [publications/slides/slides-puma-asplos19.pptx \[slides\]] [publications/poster/poster-puma-asplos19.pptx \[poster\]] [https://www.youtube.com/watch?v=x3dAPgkQFOg \[video\]] [publications/bib/bib-puma-asplos19.bib \[bibtex\]] [https://github.com/Aayush-Ankit/puma-simulator \[simulator code\]] [https://github.com/illinois-impact/puma-compiler \[compiler code\]]
 
 : {*Analysis and Modeling of Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures*}
 S. Huang, L.-W. Chang, **I. El Hajj**, S. Garcia de Gonzalo, J. Gómez-Luna, S. Chalamalasetti, M. El-Hadedy, D. Milojicic, O. Mutlu, D. Chen, W.-M. Hwu\n
 /ICPE'19/\n
-[publications/paper/paper-chai-icpe19.pdf \[paper\]] [publications/bib/bib-chai-icpe19.bib \[bibtex\]]
+[publications/paper/paper-chai-icpe19.pdf \[paper\]] [publications/slides/slides-chai-icpe19.pptx \[slides\]] [publications/bib/bib-chai-icpe19.bib \[bibtex\]]
 
 : {*A Fast and Massively-Parallel Inverse Solver for Multiple-Scattering Tomographic Image Reconstruction*}
 M. Hidayetoğlu, C. Pearson, **I. El Hajj**, L. Gürel, W.-C. Chew, W.-M. Hwu\n

@@ -2,12 +2,17 @@
 # jemdoc: analytics{UA-137513962-1}
 = Current Teaching Activities
 
+: {*CMPS 255 - Computer Architecture*, AUB}
+/Fall '19/\n
+Topic list: logic design, logic gates, truth tables, Karnaugh maps, combinational logic, decoders, multiplexors, ALUs, sequential logic, flip flops, state machines, register file, assembly programming, instruction set architecture, instruction format, RISC, CISC, numeral systems, binary arithmetic, two's complement, floating point, building a datapath, pipelining, data hazards, control hazards, exceptions, memory hierarchy, cache, cache misses, associative caches, address translation, paging, TLB.
+
+
 : {*CMPS 258 - Programming Languages*, AUB}
 /Spring '19/\n
 Topic list: introduction to functional programming, recursion, compound types, pattern matching, first-class functions, higher-order functions, anonymous functions, iterators, closures, lexical scope, currying and partial application, thunks, lazy evaluation, memoization, object-oriented programming fundamentals, inheritance, multiple inheritance, interfaces, dynamic dispatch, single dispatch, multiple dispatch, chaining, visitors, type systems, polymorphism, subtyping, type safety, type checking, type inference, unification algorithm, introduction to compilers, regular expressions, lexers, context-free grammars, grammar disambiguation, parsers, parse trees, parse tables, LR parsing, LL parsing.
 
 
 : {*CMPS 274/374 - Compiler Construction*, AUB}
-/Spring '19/\n
+/Spring '19, Fall '19/\n
 Topic list: compiler organization, review of lexers and parsers, intermediate representations, abstract syntax trees, source-to-source translation, control flow graphs, three-address code, stack code, static single assignment form, linkage conventions, storage conventions, linkers, loaders, code generation, dynamic dispatch, virtual tables, dominance, natural loops, irreducible graphs, dataflow analysis, reaching definitions, available expressions, liveness analysis, peephole optimizations, dead code elimination, constant propagation, lattices, sparse conditional constant propagation, loop-invariant code motion, common sub-expression elimination, instruction selection, register allocation, instruction scheduling.
 

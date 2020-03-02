@@ -1,6 +1,6 @@
-# jemdoc: menu{MENU}{teaching-current.html}, nofooter
+# jemdoc: menu{MENU}{courses.html}, nofooter
 # jemdoc: analytics{UA-137513962-1}
-= Current Teaching Activities
+= Courses
 
 : {*CMPS 255 - Computer Architecture*, AUB}
 /Fall '19/\n

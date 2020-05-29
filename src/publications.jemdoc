@@ -4,6 +4,11 @@
 
 == Papers
 
+: {*PANTHER: A Programmable Architecture for Neural Network Training Harnessing Energy-efficient ReRAM*}
+A. Ankit, Aayush, **I. El Hajj**, S. Chalamalasetti, S. Agarwal, M. Marinella, M. Foltin, J. P. Strachan, D. Milojicic, W.-M. Hwu, K. Roy\n
+/IEEE Transactions on Computers '20 ***(Special Issue on Domain-Specific Architectures for Emerging Applications)***/\n
+[publications/bib/bib-panther-toc20.bib \[bibtex\]]
+
 : {*PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference*}
 A. Ankit, **I. El Hajj**, S. Chalamalasetti, G. Ndu, M. Foltin, R. S. Williams, P. Faraboschi, W.-M. Hwu, J. P. Strachan, K. Roy, D. Milojicic\n
 /ASPLOS'19/ ***(acceptance rate: 74/350 = 21.1%)***\n

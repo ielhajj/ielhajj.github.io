@@ -5,7 +5,7 @@
 == Papers
 
 : {*PANTHER: A Programmable Architecture for Neural Network Training Harnessing Energy-efficient ReRAM*}
-A. Ankit, Aayush, **I. El Hajj**, S. Chalamalasetti, S. Agarwal, M. Marinella, M. Foltin, J. P. Strachan, D. Milojicic, W.-M. Hwu, K. Roy\n
+A. Ankit, **I. El Hajj**, S. Chalamalasetti, S. Agarwal, M. Marinella, M. Foltin, J. P. Strachan, D. Milojicic, W.-M. Hwu, K. Roy\n
 /IEEE Transactions on Computers '20/\n
 [https://ieeexplore.ieee.org/document/9104022 \[paper\]] [publications/bib/bib-panther-toc20.bib \[bibtex\]]
 

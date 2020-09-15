@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{students.html}, nofooter
+# jemdoc: analytics{UA-137513962-1}
+= Students
+
+== Graduate Students
+
+Masters Students:
+- Safaa Diab (current)
+- Mhd Ghaith Olabi (current)
+- Bachir El Masry (current)
+- Tarek Abdel Sater (current)
+
+== Information for Prospective Students
+
+If you are interested in doing research with me, please take a look at my [publications.html recent publications] to make sure that my research interests align with yours.
+Once you have done so, please send me an email letting me know which topics you found most interesting or if you have a closely related project in mind.
+Please make sure to attach your CV and unofficial transcripts to the email.
+
+For graduate students, I normally expect that you have taken at least one graduate level course with me, including a course on parallel computing and/or compilers.
+This will ensure that you will not have a high learning curve getting started on a project, which would ultimately delay your thesis.
+

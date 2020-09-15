@@ -4,10 +4,15 @@
 
 == Papers
 
+: {*KTrussExplorer: Exploring the Design Space of K-truss Decomposition Optimizations on GPUs*}
+S. Diab, M. G. Olabi, **I. El Hajj**\n
+/HPEC '20/\n
+[publications/bib/bib-ktrussexplorer-hpec20.bib \[bibtex\]] [https://github.com/ielhajj/ktruss-explorer \[code\]]
+
 : {*PANTHER: A Programmable Architecture for Neural Network Training Harnessing Energy-efficient ReRAM*}
 A. Ankit, **I. El Hajj**, S. Chalamalasetti, S. Agarwal, M. Marinella, M. Foltin, J. P. Strachan, D. Milojicic, W.-M. Hwu, K. Roy\n
 /IEEE Transactions on Computers '20/\n
-[https://ieeexplore.ieee.org/document/9104022 \[paper\]] [publications/bib/bib-panther-toc20.bib \[bibtex\]]
+[publications/paper/paper-panther-tc20.pdf \[paper\]] [publications/bib/bib-panther-toc20.bib \[bibtex\]]
 
 : {*PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference*}
 A. Ankit, **I. El Hajj**, S. Chalamalasetti, G. Ndu, M. Foltin, R. S. Williams, P. Faraboschi, W.-M. Hwu, J. P. Strachan, K. Roy, D. Milojicic\n

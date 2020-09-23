@@ -7,7 +7,7 @@
 : {*KTrussExplorer: Exploring the Design Space of K-truss Decomposition Optimizations on GPUs*}
 S. Diab, M. G. Olabi, **I. El Hajj**\n
 /HPEC '20/\n
-[publications/paper/paper-ktrussexplorer-hpec20.pdf \[paper\]] [publications/bib/bib-ktrussexplorer-hpec20.bib \[bibtex\]] [https://github.com/ielhajj/ktruss-explorer \[code\]]
+[publications/paper/paper-ktrussexplorer-hpec20.pdf \[paper\]] [publications/slides/slides-ktrussexplorer-hpec20.pdf \[slides\]] [publications/bib/bib-ktrussexplorer-hpec20.bib \[bibtex\]] [https://github.com/ielhajj/ktruss-explorer \[code\]]
 
 : {*PANTHER: A Programmable Architecture for Neural Network Training Harnessing Energy-efficient ReRAM*}
 A. Ankit, **I. El Hajj**, S. Chalamalasetti, S. Agarwal, M. Marinella, M. Foltin, J. P. Strachan, D. Milojicic, W.-M. Hwu, K. Roy\n

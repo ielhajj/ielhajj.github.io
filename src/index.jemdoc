@@ -14,13 +14,11 @@ Lebanon\n
 Office: Bliss Hall, Room 236\n
 Phone: +961 1 350000 ext. 4253\n
 Email: izzat dot elhajj at aub dot edu dot lb\n
-\n
-Office Hours (Fall '20): MW @ 11:00am-12:25pm
 ~~~
 
 == Short Bio
 Izzat is an Assistant Professor in the Department of Computer Science at the American University of Beirut.
-His research interests are in application acceleration and programming support for emerging processor and memory technologies, with particular interest in GPUs and near-memory accelerators.
+His research interests are in application acceleration and programming support for emerging parallel processors and memory technologies, with a particular interest in GPUs and processing-in-memory.
 His teaching interests are in parallel computing, computer architecture, compilers, and programming languages.
 
 Izzat received his M.S. and Ph.D. in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign, where he worked with the IMPACT Research Group led by Prof. Wen-mei Hwu and received the Dan Vivoli Endowed Fellowship.

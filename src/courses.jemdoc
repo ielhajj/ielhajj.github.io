@@ -3,12 +3,12 @@
 = Courses
 
 : {*CMPS 255 - Computer Architecture*, AUB}
-/Fall '19/\n
+/Fall '19, Fall '20/\n
 Topic list: computer abstractions, performance, power wall, numeral systems, logic design, logic gates, truth tables, Karnaugh maps, combinational logic, decoders, multiplexors, ALUs, sequential logic, flip flops, latches, register file, SRAM, DRAM, finite state machine, multiplication hardware, assembly programming, instruction set architecture, instruction formats, calling conventions, floating point representation, floating point hardware, building a datapath, pipelining the datapath, structure hazards, data hazards, control hazards, memory hierarchy, locality, direct-mapped caches, associative caches, cache writing modes, cache performance, virtual memory, address translation, page tables, translation lookaside buffer.
 
 
 : {*CMPS 258 - Programming Languages*, AUB}
-/Spring '19, Spring '20/\n
+/Spring '19, Spring '20, Spring '21/\n
 Topic list: syntax and semantics, introduction to functional programming, bindings, tuples, lists, mutation, recursion, compound types, pattern matching, first-class functions, higher-order functions, anonymous functions, iterators, closures, lexical scope and dynamic scope, currying and partial application, thunks, lazy evaluation, memoization, object-oriented programming fundamentals, inheritance, multiple inheritance, interfaces, composition, static dispatch, dynamic dispatch, single dispatch, multiple dispatch, chaining, visitors, type systems, polymorphism, parametric polymorphism, subtype polymorphism, type safety, type expression, type compatibility, type checking, implementing languages, syntax analysis, lexers, specifying lexemes with regular expressions, lexer generators, grammars, grammar disambiguation, parsers, parse trees, parse tables, LR parsing, LL parsing, parser generators, semantic analysis, type derivation, type inference, unification algorithm.
 
 
@@ -18,7 +18,7 @@ Topic list: compiler organization, review of lexers and parsers, intermediate re
 
 
 : {*CMPS 297S/396AA - GPU Computing*, AUB}
-/Spring '20/\n
+/Spring '20, Spring '21/\n
 Topic list: introduction to parallel computing, GPU architecture, CUDA programming model, CUDA memory model, matrix multiplication, tiling, scratchpad memory, constant memory, SIMT, memory coalescing, control divergence, convolution, reduction tree, prefix sum, histogram, atomic operations, sparse matrix representation and processing, merge, graph search, dynamic parallleism, multi-GPU programming, computational thinking, parallel computing case studies.
 
 : {*CMPS 299 - Software Graduation Project*, AUB}

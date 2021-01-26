@@ -2,14 +2,6 @@
 # jemdoc: analytics{UA-137513962-1}
 = Students
 
-== Graduate Students
-
-Master Students:
-- [https://www.linkedin.com/in/safaa-diab-b8279a167 Safaa Diab] (current)
-- [https://www.linkedin.com/in/bachir-masry-24157a11b Bachir El Masry] (current)
-- [https://www.linkedin.com/in/gaitholabi Mhd Ghaith Olabi] (MS, 2020)
-- [https://www.linkedin.com/in/tarek-abdel-sater Tarek Abdel Sater] (MS, 2020)
-
 == Information for Prospective Students
 
 If you are interested in doing research with me, please take a look at my [publications.html recent publications] to make sure that my research interests align with yours.
@@ -18,4 +10,16 @@ Please make sure to attach your CV and unofficial transcripts to the email.
 
 I normally expect that you have taken at least one advanced course with me -- such as a course on parallel computing or compilers -- and scored a high grade in this course.
 This will ensure that you will not have a high learning curve getting started on a project.
+
+== Graduate Students
+
+Current:
+- [https://www.linkedin.com/in/safaa-diab-b8279a167 Safaa Diab] (MS)
+- [https://www.linkedin.com/in/bachir-masry-24157a11b Bachir El Masry] (MS)
+
+Graduated:
+- [https://www.linkedin.com/in/gaitholabi Mhd Ghaith Olabi] (MS, 2020)
+-- Thesis title: A Compiler Framework for Optimizing Dynamic Parallelism on GPUs
+- [https://www.linkedin.com/in/tarek-abdel-sater Tarek Abdel Sater] (MS, 2020)
+-- Thesis title: Exploring Processing-in-Memory Acceleration of Breadth-First Search
 

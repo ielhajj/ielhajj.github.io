@@ -19,8 +19,5 @@ Topic list: compiler organization, review of lexers and parsers, intermediate re
 
 : {*CMPS 297S/396AA - GPU Computing*, AUB}
 /Spring '20, Spring '21/\n
-Topic list: introduction to parallel computing, GPU architecture, CUDA programming model, CUDA memory model, matrix multiplication, tiling, scratchpad memory, constant memory, SIMT, memory coalescing, control divergence, convolution, reduction tree, prefix sum, histogram, atomic operations, sparse matrix representation and processing, merge, graph search, dynamic parallleism, multi-GPU programming, computational thinking, parallel computing case studies.
-
-: {*CMPS 299 - Software Graduation Project*, AUB}
-/Every semester/
+Topic list: introduction to parallel computing, GPU architecture, CUDA programming model, CUDA memory model, matrix multiplication, tiling, scratchpad memory, constant memory, SIMT, memory coalescing, control divergence, convolution, stencil, histogram, atomic operations, reduction tree, prefix sum, merging, sorting, sparse matrix representations and processing, graph traversal, streaming, intra-warp synchronization, dynamic parallleism, multi-GPU programming, and computational thinking.
 

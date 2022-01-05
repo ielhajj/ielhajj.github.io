@@ -4,9 +4,9 @@
 
 == Papers
 
-: {*Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators*}
-S. Huang, A. Ankit, P. Silveira, R. Antunes, S. Chalamalasetti, **I. El Hajj**, D. Kim, G. Aguiar, P. Bruel, S. Serebryakov, C. Xu, C. Li, P. Faraboschi, J. P. Strachan, D. Chen, K. Roy, W.-M. Hwu, D. Milojicic\n
-/ASP-DAC'21/
+: {*A Compiler Framework for Optimizing Dynamic Parallelism on GPUs*}
+M. G. Olabi, J. Gómez-Luna, O. Mutlu, W.-M. Hwu, **I. El Hajj**\n
+/CGO'22/ ***(acceptance rate: 27/94 = 28.7%)***
 
 : {*KTrussExplorer: Exploring the Design Space of K-truss Decomposition Optimizations on GPUs*}
 S. Diab, M. G. Olabi, **I. El Hajj**\n
@@ -22,11 +22,6 @@ A. Ankit, **I. El Hajj**, S. Chalamalasetti, S. Agarwal, M. Marinella, M. Foltin
 A. Ankit, **I. El Hajj**, S. Chalamalasetti, G. Ndu, M. Foltin, R. S. Williams, P. Faraboschi, W.-M. Hwu, J. P. Strachan, K. Roy, D. Milojicic\n
 /ASPLOS'19/ ***(acceptance rate: 74/350 = 21.1%)***\n
 [publications/paper/paper-puma-asplos19.pdf \[paper\]] [publications/slides/slides-puma-asplos19.pptx \[slides\]] [publications/poster/poster-puma-asplos19.pptx \[poster\]] [https://www.youtube.com/watch?v=x3dAPgkQFOg \[video\]] [publications/bib/bib-puma-asplos19.bib \[bibtex\]] [https://github.com/Aayush-Ankit/puma-simulator \[simulator code\]] [https://github.com/illinois-impact/puma-compiler \[compiler code\]]
-
-: {*Analysis and Modeling of Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures*}
-S. Huang, L.-W. Chang, **I. El Hajj**, S. Garcia de Gonzalo, J. Gómez-Luna, S. Chalamalasetti, M. El-Hadedy, D. Milojicic, O. Mutlu, D. Chen, W.-M. Hwu\n
-/ICPE'19/\n
-[publications/paper/paper-chai-icpe19.pdf \[paper\]] [publications/slides/slides-chai-icpe19.pptx \[slides\]] [publications/bib/bib-chai-icpe19.bib \[bibtex\]]
 
 : {*A Fast and Massively-Parallel Inverse Solver for Multiple-Scattering Tomographic Image Reconstruction*}
 M. Hidayetoğlu, C. Pearson, **I. El Hajj**, L. Gürel, W.-C. Chew, W.-M. Hwu\n
@@ -73,6 +68,15 @@ X.-L. Wu, Y. Heo, **I. El Hajj**, W.-M. Hwu, D. Chen, J. Ma\n
 
 == Short Papers and Posters
 
+: {*Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators*}
+S. Huang, A. Ankit, P. Silveira, R. Antunes, S. Chalamalasetti, **I. El Hajj**, D. Kim, G. Aguiar, P. Bruel, S. Serebryakov, C. Xu, C. Li, P. Faraboschi, J. P. Strachan, D. Chen, K. Roy, W.-M. Hwu, D. Milojicic\n
+/ASP-DAC'21/
+
+: {*Analysis and Modeling of Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures*}
+S. Huang, L.-W. Chang, **I. El Hajj**, S. Garcia de Gonzalo, J. Gómez-Luna, S. Chalamalasetti, M. El-Hadedy, D. Milojicic, O. Mutlu, D. Chen, W.-M. Hwu\n
+/ICPE'19/\n
+[publications/paper/paper-chai-icpe19.pdf \[paper\]] [publications/slides/slides-chai-icpe19.pptx \[slides\]] [publications/bib/bib-chai-icpe19.bib \[bibtex\]]
+
 : {*Hardware-Software Co-Design for an Analog-Digital Accelerator for Machine Learning*}
 J. Ambrosi, A. Ankit, R. Antunes, S. Chalamalasetti, S. Chatterjee, **I. El Hajj**, G. Fachini, P. Faraboschi, M. Foltin, S. Huang, W.-M. Hwu, G. Knuppe, S. Lakshminarasimha, D. Milojicic, M. Parthasarathy, F. Ribeiro, L. Rosa, K. Roy, P. Silveira, J. P. Strachan\n
 /ICRC'18/\n
@@ -88,6 +92,21 @@ L.-W. Chang, J. Gómez-Luna, **I. El Hajj**, S. Huang, D. Chen, W.-M. Hwu\n
 /ICPE'17/\n
 [publications/paper/paper-collaborative-icpe17.pdf \[short paper\]] [publications/slides/slides-collaborative-icpe17.pptx \[slides\]] [publications/bib/bib-collaborative-icpe17.bib \[bibtex\]]
 
+: {*A Programming System for Future Proofing Performance Critical Libraries*}
+L.-W. Chang, **I. El Hajj**, H.-S. Kim, J. Gómez-Luna, A. Dakkak, W.-M. Hwu\n
+/PPoPP'16/\n
+[publications/paper/paper-tangram-ppopp16.pdf \[short paper\]] [publications/poster/poster-tangram-ppopp16.pdf \[poster\]] [publications/bib/bib-tangram-ppopp16.bib \[bibtex\]]
+
+== Invited Papers
+
+: {*A Python-based High-Level Programming Flow for CPU-FPGA Heterogeneous Systems*}
+S. Huang, K. Wu, S. Chalamalasetti, **I. El Hajj**, C. Xu, P. Faraboschi, D. Chen\n
+/PEHC'21/
+
+: {*Benchmarking Memory-Centric Computing Systems: Analysis of Real Processing-in-Memory Hardware*}
+J. Gómez-Luna, **I. El Hajj**, Ivan Fernandez, C. Giannoula, G. Oliveira, O. Mutlu\n
+/CUT'21/
+
 : {*Rebooting the Data Access Hierarchy of Computing Systems*}
 W.-M. Hwu, **I. El Hajj**, S. Garcia de Gonzalo, C. Pearson, N. S. Kim, D. Chen, J. Xiong, Z. Sura\n
 /ICRC'17/\n
@@ -97,11 +116,6 @@ W.-M. Hwu, **I. El Hajj**, S. Garcia de Gonzalo, C. Pearson, N. S. Kim, D. Chen,
 P. Bruel, S. Chalamalasetti, C. Dalton, **I. El Hajj**, A. Goldman, C. Graves, W.-M. Hwu, P. Laplante, D. Milojicic, G. Ndu, J. P. Strachan\n
 /ICRC'17/\n
 [publications/paper/paper-dpe-icrc17.pdf \[paper\]] [publications/bib/bib-dpe-icrc17.bib \[bibtex\]]
-
-: {*A Programming System for Future Proofing Performance Critical Libraries*}
-L.-W. Chang, **I. El Hajj**, H.-S. Kim, J. Gómez-Luna, A. Dakkak, W.-M. Hwu\n
-/PPoPP'16/\n
-[publications/paper/paper-tangram-ppopp16.pdf \[short paper\]] [publications/poster/poster-tangram-ppopp16.pdf \[poster\]] [publications/bib/bib-tangram-ppopp16.bib \[bibtex\]]
 
 : {*Transitioning HPC Software to Exascale Heterogeneous Computing*}
 W.-M. Hwu, L.-W. Chang, H.-S. Kim, A. Dakkak, **I. El Hajj**\n

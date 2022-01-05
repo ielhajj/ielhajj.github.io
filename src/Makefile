@@ -5,6 +5,5 @@ default:
 	./jemdoc.py -o ../ publications.jemdoc
 	./jemdoc.py -o ../ students.jemdoc
 	./jemdoc.py -o ../ courses.jemdoc
-	./jemdoc.py -o ../ teaching-other.jemdoc
 	./jemdoc.py -o ../ recommendation-letters.jemdoc
 

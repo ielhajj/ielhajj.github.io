@@ -2,11 +2,37 @@
 # jemdoc: analytics{UA-137513962-1}
 = Publications
 
+== Textbook
+
+: {*Programming Massively Parallel Processors: A Hands-on Approach*}
+W.-M. Hwu, D. Kirk, **I. El Hajj**\n
+/Morgan Kaufmann '22/\n
+[https://textbooks.elsevier.com/web/product_details.aspx?isbn=9780323912310 \[site\]]
+
 == Papers
+
+: {*Parallel K-Clique Counting on GPUs*}
+M. Almasri, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
+/ICS'22/ ***(acceptance rate: 39/165 = 23.64%)***
+
+: {*Benchmarking a New Paradigm: Experimental Analysis and Characterization of a Real Processing-in-Memory System*}
+J. Gómez-Luna, **I. El Hajj**, Ivan Fernandez, C. Giannoula, G. Oliveira, O. Mutlu\n
+/IEEE Access '22/\n
+[https://doi.org/10.1109/ACCESS.2022.3174101 \[paper\]] [publications/slides/slides-prim-access22.pptx \[slides\]] [https://www.youtube.com/watch?v=6Ws3h_CQO_Q&list=PL5Q2soXY2Zi8_VVChACnON4sfh2bJ5IrD&index=165 \[video\]] [https://www.youtube.com/watch?v=SrFD_u46EDA&list=PL5Q2soXY2Zi8_VVChACnON4sfh2bJ5IrD&index=153 \[short video\]] [https://github.com/CMU-SAFARI/prim-benchmarks \[code\]]
+
+: {*ASAP: Architecture Support for Asynchronous Persistence*}
+A. Abulila, **I. El Hajj**, M. Jung, N. S. Kim.\n
+/ISCA'22/ ***(acceptance rate: 67/400 = 16.75%)***
+
+: {*Parallel Vertex Cover Algorithms on GPUs*}
+P. Yamout, K. Barada, A. Jaljuli, A. Mouawad, **I. El Hajj**\n
+/IPDPS'22/ ***(1st round acceptance rate: 46/474 = 9.7%)***\n
+[https://arxiv.org/pdf/2204.10402.pdf \[paper\]] [publications/slides/slides-vc-ipdps22.pptx \[slides\]] [https://github.com/pky00/Parallel-Vertex-Cover-Algorithms-on-GPUs \[code\]]
 
 : {*A Compiler Framework for Optimizing Dynamic Parallelism on GPUs*}
 M. G. Olabi, J. Gómez-Luna, O. Mutlu, W.-M. Hwu, **I. El Hajj**\n
-/CGO'22/ ***(acceptance rate: 27/94 = 28.7%)***
+/CGO'22/ ***(acceptance rate: 27/94 = 28.7%)***\n
+[https://arxiv.org/pdf/2201.02789.pdf \[paper\]] [publications/slides/slides-klap-cgo22.pptx \[slides\]] [publications/slides/slides-klap-cgo22-short.pptx \[short slides\]] [https://github.com/gaitholabi/klap-cgo22 \[code\]]
 
 : {*KTrussExplorer: Exploring the Design Space of K-truss Decomposition Optimizations on GPUs*}
 S. Diab, M. G. Olabi, **I. El Hajj**\n
@@ -67,6 +93,10 @@ X.-L. Wu, Y. Heo, **I. El Hajj**, W.-M. Hwu, D. Chen, J. Ma\n
 [publications/paper/paper-tiger-bio12.pdf \[paper\]] [publications/bib/bib-tiger-bio12.bib \[bibtex\]]
 
 == Short Papers and Posters
+
+: {*High-throughput Pairwise Alignment with the Wavefront Algorithm using Processing-in-Memory*}
+S. Diab, A. Nassereldine, M. Alser, J. Gómez-Luna, O. Mutlu, **I. El Hajj**\n
+/HiCOMB'22/
 
 : {*Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators*}
 S. Huang, A. Ankit, P. Silveira, R. Antunes, S. Chalamalasetti, **I. El Hajj**, D. Kim, G. Aguiar, P. Bruel, S. Serebryakov, C. Xu, C. Li, P. Faraboschi, J. P. Strachan, D. Chen, K. Roy, W.-M. Hwu, D. Milojicic\n

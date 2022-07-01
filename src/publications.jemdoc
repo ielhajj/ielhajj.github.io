@@ -28,7 +28,7 @@ A. Abulila, **I. El Hajj**, M. Jung, N. S. Kim.\n
 : {*Parallel Vertex Cover Algorithms on GPUs*}
 P. Yamout, K. Barada, A. Jaljuli, A. Mouawad, **I. El Hajj**\n
 /IPDPS'22/ ***(1st round acceptance rate: 46/474 = 9.7%)***\n
-[https://arxiv.org/pdf/2204.10402.pdf \[paper\]] [publications/slides/slides-vc-ipdps22.pptx \[slides\]] [https://github.com/pky00/Parallel-Vertex-Cover-Algorithms-on-GPUs \[code\]]
+[https://arxiv.org/pdf/2204.10402.pdf \[paper\]] [publications/slides/slides-vc-ipdps22.pptx \[slides\]] [https://www.youtube.com/watch?v=M7RLXhlW-uA \[video\]] [https://github.com/pky00/Parallel-Vertex-Cover-Algorithms-on-GPUs \[code\]]
 
 : {*A Compiler Framework for Optimizing Dynamic Parallelism on GPUs*}
 M. G. Olabi, J. Gómez-Luna, O. Mutlu, W.-M. Hwu, **I. El Hajj**\n

@@ -13,7 +13,8 @@ W.-M. Hwu, D. Kirk, **I. El Hajj**\n
 
 : {*Parallel K-Clique Counting on GPUs*}
 M. Almasri, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
-/ICS'22/ ***(acceptance rate: 39/165 = 23.64%)***
+/ICS'22/ ***(acceptance rate: 39/165 = 23.64%)***\n
+[https://arxiv.org/pdf/2104.13209.pdf \[paper\]] [https://www.youtube.com/watch?v=l-8s7Aiotvo \[video\]] [https://github.com/ssmoha7/KCGPU \[code\]]
 
 : {*Benchmarking a New Paradigm: Experimental Analysis and Characterization of a Real Processing-in-Memory System*}
 J. Gómez-Luna, **I. El Hajj**, Ivan Fernandez, C. Giannoula, G. Oliveira, O. Mutlu\n

@@ -34,7 +34,7 @@ P. Yamout, K. Barada, A. Jaljuli, A. Mouawad, **I. El Hajj**\n
 : {*A Compiler Framework for Optimizing Dynamic Parallelism on GPUs*}
 M. G. Olabi, J. Gómez-Luna, O. Mutlu, W.-M. Hwu, **I. El Hajj**\n
 /CGO'22/ ***(acceptance rate: 27/94 = 28.7%)***\n
-[https://arxiv.org/pdf/2201.02789.pdf \[paper\]] [publications/slides/slides-klap-cgo22.pptx \[slides\]] [publications/slides/slides-klap-cgo22-short.pptx \[short slides\]] [https://github.com/gaitholabi/klap-cgo22 \[code\]]
+[https://arxiv.org/pdf/2201.02789.pdf \[paper\]] [publications/slides/slides-klap-cgo22.pptx \[slides\]] [publications/slides/slides-klap-cgo22-short.pptx \[short slides\]] [https://www.youtube.com/watch?v=4UpGLQvGYL0 \[video\]] [https://www.youtube.com/watch?v=-pEmfBtRoPo \[short video\]] [https://github.com/gaitholabi/klap-cgo22 \[code\]]
 
 : {*KTrussExplorer: Exploring the Design Space of K-truss Decomposition Optimizations on GPUs*}
 S. Diab, M. G. Olabi, **I. El Hajj**\n

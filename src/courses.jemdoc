@@ -2,8 +2,8 @@
 # jemdoc: analytics{UA-137513962-1}
 = Courses
 
-: {*CMPS 255 - Computer Architecture*, AUB}
-/Fall '19, Fall '20, Fall '21/\n
+: {*CMPS 221 - Computer Organization and Design*, AUB}
+/Fall '19, Fall '20, Fall '21, Fall '22/\n
 Topic list: computer abstractions, performance, power wall, numeral systems, logic design, logic gates, truth tables, Karnaugh maps, combinational logic, decoders, multiplexors, ALUs, sequential logic, flip flops, latches, register file, SRAM, DRAM, finite state machine, multiplication hardware, assembly programming, instruction set architecture, instruction formats, calling conventions, floating point representation, floating point hardware, building a datapath, pipelining the datapath, structure hazards, data hazards, control hazards, memory hierarchy, locality, direct-mapped caches, associative caches, cache writing modes, cache performance, virtual memory, address translation, page tables, translation lookaside buffer.
 
 
@@ -18,6 +18,6 @@ Topic list: compiler organization, intermediate representations, abstract syntax
 
 
 : {*CMPS 297S/396AA - GPU Computing*, AUB}
-/Spring '20, Spring '21, Spring '22/\n
+/Spring '20, Spring '21, Spring '22, Fall '22/\n
 Topic list: introduction to parallel computing, GPU architecture, CUDA programming model, CUDA memory model, matrix multiplication, tiling, scratchpad memory, constant memory, SIMT, memory coalescing, control divergence, convolution, stencil, histogram, atomic operations, reduction tree, prefix sum, merging, sorting, sparse matrix representations and processing, graph traversal, streaming, intra-warp synchronization, dynamic parallleism, multi-GPU programming, and computational thinking.
 

@@ -11,6 +11,16 @@ W.-M. Hwu, D. Kirk, **I. El Hajj**\n
 
 == Papers
 
+: {*Predicting the Performance-Cost Tarde-off of Applications Across Multiple Systems*}
+A. Nassereldine, S. Diab, M. Baydoun, K. Leach, M. Alt, D. Milojicic, **I. El Hajj**\n
+/CCGrid '23/\n
+[publications/paper/paper-ccgrid23.pdf \[paper\]] [publications/slides/slides-ccgrid23.pptx \[slides\]]
+
+: {*A Framework for High-throughput Sequence Alignment using Real Processing-in-Memory Systems*}
+S. Diab, A. Nassereldine, M. Alser, J. Gómez-Luna, O. Mutlu, **I. El Hajj**\n
+/Bioinformatics '23/\n
+[https://academic.oup.com/bioinformatics/article/39/5/btad155/7087101 \[paper\]] [publications/slides/slides-bioarch23.pptx \[slides\]] [https://www.youtube.com/watch?v=2rCsb4-nLmg&t=9472s \[video\]] [https://github.com/safaad/aim \[code\]]
+
 : {*Parallel K-Clique Counting on GPUs*}
 M. Almasri, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
 /ICS'22/ ***(acceptance rate: 39/165 = 23.64%)***\n
@@ -22,7 +32,7 @@ J. Gómez-Luna, **I. El Hajj**, Ivan Fernandez, C. Giannoula, G. Oliveira, O. Mu
 [https://doi.org/10.1109/ACCESS.2022.3174101 \[paper\]] [publications/slides/slides-prim-access22.pptx \[slides\]] [https://www.youtube.com/watch?v=6Ws3h_CQO_Q&list=PL5Q2soXY2Zi8_VVChACnON4sfh2bJ5IrD&index=165 \[video\]] [https://www.youtube.com/watch?v=SrFD_u46EDA&list=PL5Q2soXY2Zi8_VVChACnON4sfh2bJ5IrD&index=153 \[short video\]] [https://github.com/CMU-SAFARI/prim-benchmarks \[code\]]
 
 : {*ASAP: Architecture Support for Asynchronous Persistence*}
-A. Abulila, **I. El Hajj**, M. Jung, N. S. Kim.\n
+A. Abulila, **I. El Hajj**, M. Jung, N. S. Kim\n
 /ISCA'22/ ***(acceptance rate: 67/400 = 16.75%)***\n
 [publications/paper/paper-asap-isca22.pdf \[paper\]] [publications/slides/slides-asap-isca22.pptx \[slides\]] [https://www.youtube.com/watch?v=vwMaYQjwxKQ&t=2541s \[video\]]
 
@@ -95,6 +105,10 @@ X.-L. Wu, Y. Heo, **I. El Hajj**, W.-M. Hwu, D. Chen, J. Ma\n
 [publications/paper/paper-tiger-bio12.pdf \[paper\]]
 
 == Short Papers and Posters
+
+: {*Asynchronous Persistence with ASAP*}
+A. Abulila, **I. El Hajj**, M. Jung, N. S. Kim.\n
+/NVMW'23/
 
 : {*High-throughput Pairwise Alignment with the Wavefront Algorithm using Processing-in-Memory*}
 S. Diab, A. Nassereldine, M. Alser, J. Gómez-Luna, O. Mutlu, **I. El Hajj**\n

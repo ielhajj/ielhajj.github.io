@@ -7,17 +7,17 @@
 Topic list: computer abstractions, performance, power wall, numeral systems, logic design, logic gates, truth tables, Karnaugh maps, combinational logic, decoders, multiplexors, ALUs, sequential logic, flip flops, latches, register file, SRAM, DRAM, finite state machine, multiplication hardware, assembly programming, instruction set architecture, instruction formats, calling conventions, floating point representation, floating point hardware, building a datapath, pipelining the datapath, structure hazards, data hazards, control hazards, memory hierarchy, locality, direct-mapped caches, associative caches, cache writing modes, cache performance, virtual memory, address translation, page tables, translation lookaside buffer.
 
 
-: {*CMPS 258 - Programming Languages*, AUB}
+: {*CMPS 224/396AA - GPU Computing*, AUB}
+/Spring '20, Spring '21, Spring '22, Fall '22/\n
+Topic list: introduction to parallel computing, GPU architecture, CUDA programming model, CUDA memory model, matrix multiplication, tiling, scratchpad memory, constant memory, SIMT, memory coalescing, control divergence, convolution, stencil, histogram, atomic operations, reduction tree, prefix sum, merging, sorting, sparse matrix representations and processing, graph traversal, streaming, intra-warp synchronization, dynamic parallleism, multi-GPU programming, and computational thinking.
+
+: {*CMPS 231 - Programming Languages*, AUB}
 /Spring '19, Spring '20, Spring '21/\n
 Topic list: syntax and semantics, introduction to functional programming, bindings, tuples, lists, mutation, recursion, compound types, pattern matching, first-class functions, higher-order functions, anonymous functions, iterators, closures, lexical scope and dynamic scope, currying and partial application, thunks, lazy evaluation, memoization, object-oriented programming fundamentals, inheritance, multiple inheritance, interfaces, composition, static dispatch, dynamic dispatch, single dispatch, multiple dispatch, chaining, visitors, type systems, polymorphism, parametric polymorphism, subtype polymorphism, type safety, type expression, type compatibility, type checking, implementing languages, syntax analysis, lexers, specifying lexemes with regular expressions, lexer generators, grammars, grammar disambiguation, parsers, parse trees, parse tables, LR parsing, LL parsing, parser generators, semantic analysis, type derivation, type inference, unification algorithm.
 
 
-: {*CMPS 274/374 - Compiler Construction*, AUB}
+: {*CMPS 232/332 - Compiler Construction*, AUB}
 /Spring '19, Fall '19, Spring '22/\n
 Topic list: compiler organization, intermediate representations, abstract syntax trees, source-to-source translation, control flow graphs, three-address code, stack code, static single assignment form, separate compilation, linkage conventions, storage conventions, linkers, loaders, separation of concerns, intermediate code generation, object layout, implementing inheritance, implementing dynamic dispatch, dominance, natural loops, irreducible graphs, dataflow analysis, reaching definitions, available expressions, liveness analysis, peephole optimizations, dead code elimination, constant propagation, constant lattice, sparse conditional constant propagation, loop-invariant code motion, global common sub-expression elimination, instruction selection, register allocation, instruction scheduling.
 
-
-: {*CMPS 297S/396AA - GPU Computing*, AUB}
-/Spring '20, Spring '21, Spring '22, Fall '22/\n
-Topic list: introduction to parallel computing, GPU architecture, CUDA programming model, CUDA memory model, matrix multiplication, tiling, scratchpad memory, constant memory, SIMT, memory coalescing, control divergence, convolution, stencil, histogram, atomic operations, reduction tree, prefix sum, merging, sorting, sparse matrix representations and processing, graph traversal, streaming, intra-warp synchronization, dynamic parallleism, multi-GPU programming, and computational thinking.
 

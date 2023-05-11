@@ -167,15 +167,14 @@ def standardconf():
   <body>
   
   [analytics]
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EBQZVVV1E3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EBQZVVV1E3');
   </script>
-  <script type="text/javascript">
-  try {
-      var pageTracker = _gat._getTracker("|");
-      pageTracker._trackPageview();
-  } catch(err) {}</script>
   
   [menustart]
   <table summary="Table for page layout." id="tlayout">

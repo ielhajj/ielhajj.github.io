@@ -613,7 +613,7 @@ def replacelinks(b):
     m1 = m.group(1).strip()
 
     if '@' in m1 and not m1.startswith('mailto:') and not \
-       m1.startswith('http://'):
+       m1.startswith('http://') and not m1.startswith('https://'):
       link = 'mailto:' + m1
     else:
       link = m1

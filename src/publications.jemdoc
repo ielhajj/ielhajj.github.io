@@ -7,7 +7,7 @@
 : {*Programming Massively Parallel Processors: A Hands-on Approach*}
 W.-M. Hwu, D. Kirk, **I. El Hajj**\n
 /Morgan Kaufmann '22/\n
-[https://textbooks.elsevier.com/web/product_details.aspx?isbn=9780323912310 \[website\]]
+[https://www.sciencedirect.com/book/9780323912310/programming-massively-parallel-processors \[website\]] [https://www.elsevier.com/books-and-journals/book-companion/9780323912310 \[supplementary materials\]] [https://www.youtube.com/@pmpp-book \[channel\]]
 
 == Papers
 
@@ -19,7 +19,7 @@ M. Almasri, Yen-Hsiang Chang, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
 : {*SimplePIM: A Software Framework For Productive And Efficient Processing-in-Memory*}
 J. Chen, J. G\'{o}mez-Luna, **I. El Hajj**, Y. Guo, O. Mutlu\n
 /PACT '23/\n
-[https://arxiv.org/pdf/2310.01893 \[paper\]] [https://github.com/CMU-SAFARI/SimplePIM \[code\]]
+[https://arxiv.org/pdf/2310.01893 \[paper\]] [publications/slides/slides-simplepim-pact23.pptx \[slides\]] [https://github.com/CMU-SAFARI/SimplePIM \[code\]]
 
 : {*Efficient algorithms to solve atom reconfiguration problems. II. Assignment-rerouting-ordering algorithm*}
 R. El Sabeh, J. Bohm, Z. Ding, S. Maaz, N. Nishimura, **I. El Hajj**, A. E. Mouawad, A. Cooper\n

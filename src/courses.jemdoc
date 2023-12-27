@@ -3,12 +3,12 @@
 = Courses
 
 : {*CMPS 221 - Computer Organization and Design*, AUB}
-/Fall '19, Fall '20, Fall '21, Fall '22, Fall '23/\n
+/Fall '19, Fall '20 ([https://www.youtube.com/playlist?list=PLZrjSW9GrEZG6BgscDFfKJPNZB1q88dB- recordings]), Fall '21, Fall '22, Fall '23/\n
 Topic list: computer abstractions, performance, power wall, numeral systems, logic design, logic gates, truth tables, Karnaugh maps, combinational logic, decoders, multiplexors, ALUs, sequential logic, flip flops, latches, register file, SRAM, DRAM, finite state machine, multiplication hardware, assembly programming, instruction set architecture, instruction formats, calling conventions, floating point representation, floating point hardware, building a datapath, pipelining the datapath, structure hazards, data hazards, control hazards, memory hierarchy, locality, direct-mapped caches, associative caches, cache writing modes, cache performance, virtual memory, address translation, page tables, translation lookaside buffer.
 
 
 : {*CMPS 224/396AA - GPU Computing*, AUB}
-/Spring '20, Spring '21, Spring '22, Fall '22/\n
+/Spring '20, Spring '21 ([https://www.youtube.com/playlist?list=PLZrjSW9GrEZE07f8gLECc0tfJwNDm75RW recordings]), Spring '22, Fall '22/\n
 Topic list: introduction to parallel computing, GPU architecture, CUDA programming model, CUDA memory model, matrix multiplication, tiling, scratchpad memory, constant memory, SIMT, memory coalescing, control divergence, convolution, stencil, histogram, atomic operations, reduction tree, prefix sum, merging, sorting, sparse matrix representations and processing, graph traversal, streaming, intra-warp synchronization, dynamic parallleism, multi-GPU programming, and computational thinking.
 
 : {*CMPS 231 - Programming Languages*, AUB}

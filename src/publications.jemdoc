@@ -11,6 +11,26 @@ W.-M. Hwu, D. Kirk, **I. El Hajj**\n
 
 == Papers
 
+: {*Parallelizing Maximal Clique Enumeration on GPUs*}
+M. Almasri, Yen-Hsiang Chang, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
+/PACT '23/\n
+[https://arxiv.org/pdf/2212.01473 \[paper\]] [https://github.com/yen-hsiang-chang/mce-gpu \[code\]]
+
+: {*SimplePIM: A Software Framework For Productive And Efficient Processing-in-Memory*}
+J. Chen, J. G\'{o}mez-Luna, **I. El Hajj**, Y. Guo, O. Mutlu\n
+/PACT '23/\n
+[https://arxiv.org/pdf/2310.01893 \[paper\]] [https://github.com/CMU-SAFARI/SimplePIM \[code\]]
+
+: {*Efficient algorithms to solve atom reconfiguration problems. II. Assignment-rerouting-ordering algorithm*}
+R. El Sabeh, J. Bohm, Z. Ding, S. Maaz, N. Nishimura, **I. El Hajj**, A. E. Mouawad, A. Cooper\n
+/Physical Review A '23/\n
+[https://arxiv.org/pdf/2212.05586.pdf \[paper\]]
+
+: {*Efficient algorithms to solve atom reconfiguration problems. I. Redistribution-reconfiguration algorithm*}
+B. Cimring, R. El Sabeh, M. Bacvanski, S. Maaz, **I. El Hajj**, N. Nishimura, A. E. Mouawad, A. Cooper\n
+/Physical Review A '23/\n
+[https://arxiv.org/pdf/2212.03885.pdf \[paper\]]
+
 : {*Predicting the Performance-Cost Tarde-off of Applications Across Multiple Systems*}
 A. Nassereldine, S. Diab, M. Baydoun, K. Leach, M. Alt, D. Milojicic, **I. El Hajj**\n
 /CCGrid '23/\n

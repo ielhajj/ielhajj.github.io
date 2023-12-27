@@ -3,7 +3,7 @@
 = Courses
 
 : {*CMPS 221 - Computer Organization and Design*, AUB}
-/Fall '19, Fall '20, Fall '21, Fall '22/\n
+/Fall '19, Fall '20, Fall '21, Fall '22, Fall '23/\n
 Topic list: computer abstractions, performance, power wall, numeral systems, logic design, logic gates, truth tables, Karnaugh maps, combinational logic, decoders, multiplexors, ALUs, sequential logic, flip flops, latches, register file, SRAM, DRAM, finite state machine, multiplication hardware, assembly programming, instruction set architecture, instruction formats, calling conventions, floating point representation, floating point hardware, building a datapath, pipelining the datapath, structure hazards, data hazards, control hazards, memory hierarchy, locality, direct-mapped caches, associative caches, cache writing modes, cache performance, virtual memory, address translation, page tables, translation lookaside buffer.
 
 

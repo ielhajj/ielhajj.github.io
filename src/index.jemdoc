@@ -3,7 +3,7 @@
 = Izzat El Hajj
 
 ~~~
-{}{img_left}{photo.jpg}{}{210}{280}{}
+{}{img_left}{photo.png}{}{210}{280}{}
 Izzat El Hajj\n
 Department of Computer Science\n
 American University of Beirut\n
@@ -18,10 +18,10 @@ Email: izzat dot elhajj at aub dot edu dot lb\n
 
 == Short Bio
 Izzat is an Assistant Professor in the Department of Computer Science at the American University of Beirut.
-His research interests are in application acceleration and programming support for parallel processors and memory technologies, with a particular interest in GPUs and processing-in-memory.
-His teaching interests are in parallel computing, computer architecture, compilers, and programming languages.
+His research interests are in leveraging accelerator architectures to tackle challenging computations, with a focus on GPU computing, processing-in-memory, and performance modeling.
+His teaching interests are in parallel computing, computer architecture, and compilers.
 He is a co-author of the widely used textbook on GPU computing "Programming Massively Parallel Processors: A Hands-on Approach".
 
-Izzat received his M.S. and Ph.D. in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign, where he worked with the IMPACT Research Group led by Prof. Wen-mei Hwu and received the Dan Vivoli Endowed Fellowship.
-Prior to that, he received his B.E. in Electrical and Computer Engineering at the American University of Beirut, where he graduated with high distinction and received the Distinguished Graduate Award.
+Izzat earned his M.S. and Ph.D. in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign, where he received the Dan Vivoli Endowed Fellowship.
+Prior to that, he earned his B.E. in Electrical and Computer Engineering at the American University of Beirut, where he graduated with high distinction and received the Distinguished Graduate Award.
 

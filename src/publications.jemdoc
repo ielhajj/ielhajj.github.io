@@ -11,6 +11,18 @@ W.-M. Hwu, D. Kirk, **I. El Hajj**\n
 
 == Papers
 
+: {*ALPHA-PIM: Analysis of Linear Algebraic Processing for High-Performance Graph Applications on Real Processing-In-Memory Systems*}
+M. Barkhordar, A. Tabatabaeian, M. Sadrosadati, C. Giannoula, J. Gómez Luna, **I. El Hajj**, O. Mutlu, A. Alameldeen\n
+/IISWC '25/
+
+: {*Low-latency control system for feedback experiments with optical-tweezer arrays*}
+A. H. Dadpour, T. Khayrullin, F. Afiouni, R. El Sabeh, A. E. Mouawad, **I. El Hajj**, A. Cooper\n
+/Physical Review Applied '25/
+
+: {*Efficient algorithms to solve atom reconfiguration problems. III. The bird and batching algorithms and other parallel implementations on GPUs*}
+F. Afiouni, R. El Sabeh, N. Nishimura, **I. El Hajj**, A. E. Mouawad, A. Cooper\n
+/Physical Review A '25/
+
 : {*Parallelizing Maximal Clique Enumeration on GPUs*}
 M. Almasri, Yen-Hsiang Chang, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
 /PACT '23/\n
@@ -124,7 +136,15 @@ X.-L. Wu, Y. Heo, **I. El Hajj**, W.-M. Hwu, D. Chen, J. Ma\n
 /BMC Bioinformatics'12/\n
 [publications/paper/paper-tiger-bio12.pdf \[paper\]]
 
-== Short Papers and Posters
+== Workshop Papers, Short Papers, and Posters
+
+: {*Predicting Performance Variability*}
+M. Baydoun, M. Sonji, P. Bruel, D. Milojicic, E. Frachtenberg, **I. El Hajj**\n
+/iWAPT '25/
+
+: {*Serverless Graph Analytics on Multi-Instance GPU*}
+M. Sonji, M. Baydoun, G. Rattihalli, A. Dhakal, D. Milojicic, **I. El Hajj**\n
+/GrAPL '25/
 
 : {*Asynchronous Persistence with ASAP*}
 A. Abulila, **I. El Hajj**, M. Jung, N. S. Kim.\n

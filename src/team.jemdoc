@@ -4,33 +4,39 @@
 
 == Current
 
-Research associate:
+Research scientist:
 - Mohammed Baydoun
--- Papers: [publications/paper/paper-ccgrid23.pdf CCGrid'23], iWAPT'25, GrAPL'25
+-- Papers: [publications/paper/paper-ccgrid23.pdf CCGrid'23], [publications/paper/paper-variability-iwapt25.pdf iWAPT'25], [publications/paper/paper-serverless-graph-grapl25.pdf GrAPL'25], [publications/paper/paper-awty-icpe26.pdf ICPE'26a], [publications/paper/paper-vgo-icpe26.pdf ICPE'26b], [publications/paper/paper-oasis-aiperfllm26.pdf AIPerfLLM'26]
+- Rana Dbouk
 
 Master students:
 - [https://www.linkedin.com/in/hussein-amro-6ab135366 Hussein Amro]
-- Rana Dbouk
+-- Papers: [https://arxiv.org/pdf/2512.18334 TPDS'25]
 - [https://www.linkedin.com/in/basel-fakhri-28b103276 Basel Fakhri]
+-- Papers: [https://arxiv.org/pdf/2512.18334 TPDS'25]
 - [https://www.linkedin.com/in/aboude Abd El Kader Kahil]
+- [https://www.linkedin.com/in/nemer-saab-311437276 Nemer Saab]
 
 == Former
 
 Master students:
+- Rana Dbouk (MS, 2025)
+-- Thesis tiitle: Accelerating Graph Isomorphism with GPU-parallel Canonical Labeling
 - [https://www.linkedin.com/in/hadi-al-khansa-987115253 Hadi Al Khansa] (MS, 2025)
 -- Parallel Bidirectional A* Search for GPU-Accelerated Pathfinding
+-- Papers: [publications/paper/paper-astar-ics26.pdf ICS'26]
 - [https://www.linkedin.com/in/jamil-mahmoud-3228701ab Jamil Mahmoud] (MS, 2024)
 -- Thesis title: Accelerating Knowledge Graph Relationship Queries on GPUs
 - [https://www.linkedin.com/in/mohammad-sonji Mohammad Sonji] (MS, 2023)
 -- Thesis title: Predicting if Executing Applications are Near Completion
--- Papers: iWAPT'25, GrAPL'25
+-- Papers: [publications/paper/paper-variability-iwapt25.pdf iWAPT'25], [publications/paper/paper-serverless-graph-grapl25.pdf GrAPL'25], [publications/paper/paper-awty-icpe26.pdf ICPE'26a]
 -- Late Henri Qais Naccache Best Thesis Award for 2022-2023
 - [https://www.linkedin.com/in/amir-nassereldine-76827523b Amir Nassereldine] (MS, 2022)
 -- Thesis title: Predicting the Performance of Containerized High-performance Computing Applications under Different Interference Conditions
--- Papers: [publications/paper/paper-wfa-upmem-hicomb22.pdf HiCOMB'22], [https://academic.oup.com/bioinformatics/article/39/5/btad155/7087101 Bioinformatics'23], [publications/paper/paper-ccgrid23.pdf CCGrid'23]
+-- Papers: [publications/paper/paper-wfa-upmem-hicomb22.pdf HiCOMB'22], [https://academic.oup.com/bioinformatics/article/39/5/btad155/7087101 Bioinformatics'23], [publications/paper/paper-ccgrid23.pdf CCGrid'23], [publications/paper/paper-awty-icpe26.pdf ICPE'26a]
 - [https://www.linkedin.com/in/safaa-diab-b8279a167 Safaa Diab] (MS, 2022)
 -- Thesis title: Accelerating Genome Analysis Using Processing-in-Memory
--- Papers: [publications/paper/paper-ktrussexplorer-hpec20.pdf HPEC'20], [publications/paper/paper-wfa-upmem-hicomb22.pdf HiCOMB'22], [https://academic.oup.com/bioinformatics/article/39/5/btad155/7087101 Bioinformatics'23], [publications/paper/paper-ccgrid23.pdf CCGrid'23]
+-- Papers: [publications/paper/paper-ktrussexplorer-hpec20.pdf HPEC'20], [publications/paper/paper-wfa-upmem-hicomb22.pdf HiCOMB'22], [https://academic.oup.com/bioinformatics/article/39/5/btad155/7087101 Bioinformatics'23], [publications/paper/paper-ccgrid23.pdf CCGrid'23], [publications/paper/paper-awty-icpe26.pdf ICPE'26a]
 -- Late Henri Qais Naccache Best Thesis Award for 2021-2022
 - [https://www.linkedin.com/in/bachir-masry-24157a11b Bachir El Masry] (MS, 2021)
 -- Thesis title: Optimizing Sparse Matrix Multiplication for Sparse Deep Neural Networks on GPUs

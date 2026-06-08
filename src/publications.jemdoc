@@ -6,14 +6,36 @@
 
 : {*Programming Massively Parallel Processors: A Hands-on Approach*}
 W.-M. Hwu, D. Kirk, **I. El Hajj**\n
+/Morgan Kaufmann '26/
+
+: {*Programming Massively Parallel Processors: A Hands-on Approach*}
+W.-M. Hwu, D. Kirk, **I. El Hajj**\n
 /Morgan Kaufmann '22/\n
 [https://www.sciencedirect.com/book/9780323912310/programming-massively-parallel-processors \[website\]] [https://www.elsevier.com/books-and-journals/book-companion/9780323912310 \[supplementary materials\]] [https://www.youtube.com/@pmpp-book \[channel\]]
 
 == Papers
 
+: {*Parallel Bidirectional A\* Search for GPU-Accelerated Pathfinding*}
+H. Al Khansa, J. Gómez-Luna, A. E. Mouawad, **I. El Hajj**\n
+/ICS '26/
+
+: {*Are We There Yet? Predicting if Executing Applications are Near Completion*}
+M. Sonji, M. Baydoun, S. Diab, A. Nassereldine, P. Bruel, A. Dhakal, R. P. Hong Enriquez, G. Rattihalli, D. Zad Tootaghaj, G. Renaud, B. Chapman, F. K. Abu Salem, E. Frachtenberg, D. Milojicic, **I. El Hajj**\n
+/ICPE '26/
+
+: {*Variability-Guided Performance Optimization*}
+E. Frachtenberg, V. Mittal, M. Baydoun, A. Dhakal, **I. El Hajj**, D. Milojicic\n
+/ICPE '26/\n
+*Best paper award*
+
+: {*Faster Vertex Cover Algorithms on GPUs with Component-aware Parallel Branching*}
+H. Amro, B. Fakhri, A. E. Mouawad, **I. El Hajj\n
+/IEEE TPDS '25/
+
 : {*ALPHA-PIM: Analysis of Linear Algebraic Processing for High-Performance Graph Applications on Real Processing-In-Memory Systems*}
 M. Barkhordar, A. Tabatabaeian, M. Sadrosadati, C. Giannoula, J. Gómez Luna, **I. El Hajj**, O. Mutlu, A. Alameldeen\n
-/IISWC '25/
+/IISWC '25/\n
+[publications/paper/paper-alphapim-iiswc25.pdf \[paper\]]
 
 : {*Low-latency control system for feedback experiments with optical-tweezer arrays*}
 A. H. Dadpour, T. Khayrullin, F. Afiouni, R. El Sabeh, A. E. Mouawad, **I. El Hajj**, A. Cooper\n
@@ -29,7 +51,7 @@ M. Almasri, Yen-Hsiang Chang, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
 [https://arxiv.org/pdf/2212.01473 \[paper\]] [publications/slides/slides-mce-gpu-pact23.pptx \[slides\]] [https://github.com/yen-hsiang-chang/mce-gpu \[code\]]
 
 : {*SimplePIM: A Software Framework For Productive And Efficient Processing-in-Memory*}
-J. Chen, J. G\'{o}mez-Luna, **I. El Hajj**, Y. Guo, O. Mutlu\n
+J. Chen, J. Gómez-Luna, **I. El Hajj**, Y. Guo, O. Mutlu\n
 /PACT '23/\n
 [https://arxiv.org/pdf/2310.01893 \[paper\]] [publications/slides/slides-simplepim-pact23.pptx \[slides\]] [https://github.com/CMU-SAFARI/SimplePIM \[code\]]
 
@@ -137,6 +159,10 @@ X.-L. Wu, Y. Heo, **I. El Hajj**, W.-M. Hwu, D. Chen, J. Ma\n
 [publications/paper/paper-tiger-bio12.pdf \[paper\]]
 
 == Workshop Papers, Short Papers, and Posters
+
+: {*OASIS: Optimal Allocation Strategy for Inference Services in Cloud Environments*}
+V. Mittal, M. Baydoun, A. Mishra, P. Prakash, G. Rattihalli, A. Dhakal, E. Frachtenberg, **I. El Hajj**, M. Faloutsos, D. Milojicic\n
+/AIPerfLLM '26/
 
 : {*Predicting Performance Variability*}
 M. Baydoun, M. Sonji, P. Bruel, D. Milojicic, E. Frachtenberg, **I. El Hajj**\n

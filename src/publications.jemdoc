@@ -6,7 +6,8 @@
 
 : {*Programming Massively Parallel Processors: A Hands-on Approach*}
 W.-M. Hwu, D. Kirk, **I. El Hajj**\n
-/Morgan Kaufmann '26/
+/Morgan Kaufmann '26/\n
+[https://www.youtube.com/@pmpp-book \[channel\]]
 
 : {*Programming Massively Parallel Processors: A Hands-on Approach*}
 W.-M. Hwu, D. Kirk, **I. El Hajj**\n
@@ -17,20 +18,24 @@ W.-M. Hwu, D. Kirk, **I. El Hajj**\n
 
 : {*Parallel Bidirectional A\* Search for GPU-Accelerated Pathfinding*}
 H. Al Khansa, J. Gómez-Luna, A. E. Mouawad, **I. El Hajj**\n
-/ICS '26/
+/ICS '26/\n
+[publications/paper/paper-astar-ics26.pdf \[paper\]] [https://github.com/HadiKhansaa/BBAStar \[code\]]
 
 : {*Are We There Yet? Predicting if Executing Applications are Near Completion*}
 M. Sonji, M. Baydoun, S. Diab, A. Nassereldine, P. Bruel, A. Dhakal, R. P. Hong Enriquez, G. Rattihalli, D. Zad Tootaghaj, G. Renaud, B. Chapman, F. K. Abu Salem, E. Frachtenberg, D. Milojicic, **I. El Hajj**\n
-/ICPE '26/
+/ICPE '26/\n
+[publications/paper/paper-awty-icpe26.pdf \[paper\]]
 
 : {*Variability-Guided Performance Optimization*}
 E. Frachtenberg, V. Mittal, M. Baydoun, A. Dhakal, **I. El Hajj**, D. Milojicic\n
 /ICPE '26/\n
-*Best paper award*
+*Best paper award*\n
+[publications/paper/paper-vgo-icpe26.pdf \[paper\]] [https://github.com/HewlettPackard/SHARP \[code\]]
 
 : {*Faster Vertex Cover Algorithms on GPUs with Component-aware Parallel Branching*}
 H. Amro, B. Fakhri, A. E. Mouawad, **I. El Hajj\n
-/IEEE TPDS '25/
+/IEEE TPDS '25/\n
+[https://arxiv.org/pdf/2512.18334 \[paper\]] [https://github.com/HusseinAmro/component-aware-vertex-cover-gpu \[code\]]
 
 : {*ALPHA-PIM: Analysis of Linear Algebraic Processing for High-Performance Graph Applications on Real Processing-In-Memory Systems*}
 M. Barkhordar, A. Tabatabaeian, M. Sadrosadati, C. Giannoula, J. Gómez Luna, **I. El Hajj**, O. Mutlu, A. Alameldeen\n
@@ -39,11 +44,13 @@ M. Barkhordar, A. Tabatabaeian, M. Sadrosadati, C. Giannoula, J. Gómez Luna, **
 
 : {*Low-latency control system for feedback experiments with optical-tweezer arrays*}
 A. H. Dadpour, T. Khayrullin, F. Afiouni, R. El Sabeh, A. E. Mouawad, **I. El Hajj**, A. Cooper\n
-/Physical Review Applied '25/
+/Physical Review Applied '25/\n
+[https://arxiv.org/pdf/2504.06528 \[paper\]]
 
 : {*Efficient algorithms to solve atom reconfiguration problems. III. The bird and batching algorithms and other parallel implementations on GPUs*}
 F. Afiouni, R. El Sabeh, N. Nishimura, **I. El Hajj**, A. E. Mouawad, A. Cooper\n
-/Physical Review A '25/
+/Physical Review A '25/\n
+[https://arxiv.org/pdf/2504.06182 \[paper\]]
 
 : {*Parallelizing Maximal Clique Enumeration on GPUs*}
 M. Almasri, Yen-Hsiang Chang, **I. El Hajj**, R. Nagi, J. Xiong, W.-M. Hwu\n
@@ -162,19 +169,23 @@ X.-L. Wu, Y. Heo, **I. El Hajj**, W.-M. Hwu, D. Chen, J. Ma\n
 
 : {*OASIS: Optimal Allocation Strategy for Inference Services in Cloud Environments*}
 V. Mittal, M. Baydoun, A. Mishra, P. Prakash, G. Rattihalli, A. Dhakal, E. Frachtenberg, **I. El Hajj**, M. Faloutsos, D. Milojicic\n
-/AIPerfLLM '26/
+/AIPerfLLM '26/\n
+[publications/paper/paper-oasis-aiperfllm26.pdf \[paper\]]
 
 : {*Predicting Performance Variability*}
 M. Baydoun, M. Sonji, P. Bruel, D. Milojicic, E. Frachtenberg, **I. El Hajj**\n
-/iWAPT '25/
+/iWAPT '25/\n
+[publications/paper/paper-variability-iwapt25.pdf \[paper\]]
 
 : {*Serverless Graph Analytics on Multi-Instance GPU*}
 M. Sonji, M. Baydoun, G. Rattihalli, A. Dhakal, D. Milojicic, **I. El Hajj**\n
-/GrAPL '25/
+/GrAPL '25/\n
+[publications/paper/paper-serverless-graph-grapl25.pdf \[paper\]]
 
 : {*Asynchronous Persistence with ASAP*}
 A. Abulila, **I. El Hajj**, M. Jung, N. S. Kim.\n
-/NVMW'23/
+/NVMW'23/\n
+[https://arxiv.org/pdf/2302.13394 \[paper\]]
 
 : {*High-throughput Pairwise Alignment with the Wavefront Algorithm using Processing-in-Memory*}
 S. Diab, A. Nassereldine, M. Alser, J. Gómez-Luna, O. Mutlu, **I. El Hajj**\n

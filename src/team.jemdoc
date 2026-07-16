@@ -10,20 +10,22 @@ Research scientist:
 - Rana Dbouk
 
 Master students:
-- [https://www.linkedin.com/in/hussein-amro-6ab135366 Hussein Amro]
--- Papers: [https://arxiv.org/pdf/2512.18334 TPDS'25]
-- [https://www.linkedin.com/in/basel-fakhri-28b103276 Basel Fakhri]
--- Papers: [https://arxiv.org/pdf/2512.18334 TPDS'25]
 - [https://www.linkedin.com/in/aboude Abd El Kader Kahil]
 - [https://www.linkedin.com/in/nemer-saab-311437276 Nemer Saab]
 
 == Former
 
 Master students:
+- [https://www.linkedin.com/in/hussein-amro-6ab135366 Hussein Amro] (MS. 2026)
+-- Thesis title: Accelerating Vertex Cover Algorithms on GPUs via Component-Aware Parallel Branching
+-- Papers: [https://arxiv.org/pdf/2512.18334 TPDS'25]
+- [https://www.linkedin.com/in/basel-fakhri-28b103276 Basel Fakhri] (MS, 2026)
+-- Thesis title: Designing and Parallelizing Maximum Quasi-clique Algorithms on GPUs
+-- Papers: [https://arxiv.org/pdf/2512.18334 TPDS'25]
 - Rana Dbouk (MS, 2025)
--- Thesis tiitle: Accelerating Graph Isomorphism with GPU-parallel Canonical Labeling
+-- Thesis title: Accelerating Graph Isomorphism with GPU-parallel Canonical Labeling
 - [https://www.linkedin.com/in/hadi-al-khansa-987115253 Hadi Al Khansa] (MS, 2025)
--- Parallel Bidirectional A* Search for GPU-Accelerated Pathfinding
+-- Thesis title: Parallel Bidirectional A* Search for GPU-Accelerated Pathfinding
 -- Papers: [publications/paper/paper-astar-ics26.pdf ICS'26]
 - [https://www.linkedin.com/in/jamil-mahmoud-3228701ab Jamil Mahmoud] (MS, 2024)
 -- Thesis title: Accelerating Knowledge Graph Relationship Queries on GPUs
